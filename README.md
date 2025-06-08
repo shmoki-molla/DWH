@@ -67,6 +67,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/your-username/etl-dwh-pipeline.git
-cd etl-dwh-pipeline
+git clone https://github.com/shmoki-molla/DWH.git
+cd dwh
+
 
